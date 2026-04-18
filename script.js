@@ -39,7 +39,7 @@ function sendWeatherDataToAEP() {
           renderDecisions: true,
           personalization: {
             surfaces: [
-              "web://https://anmolraj-accenture.github.io/poc-decisioning2#offerContainer"
+              "web://anmolraj-accenture.github.io/poc-decisioning2#offerContainer"
             ]
           },
           xdm: {
